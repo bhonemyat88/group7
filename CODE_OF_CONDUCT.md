@@ -5,7 +5,7 @@ Devops Team (Group 7) Code of Conduct
 2.	Meetings start and end on time 
 3.	Agenda is set ahead of time by the project leader with input from leadership team members. (agenda additions may be requested during agenda review)
 
-***Decisions*** 
+**Decisions** 
 ==============
 
 1.	Decisions will be made by the team discussion   after listening to team input. Decision making process will make by voting system including all team members.
@@ -14,7 +14,7 @@ Devops Team (Group 7) Code of Conduct
 4.	It is OK to disagree! If discontent exists after a decision has been made, it is expected that it be brought to the project owner and scrum master for further discussion until a sufficient comfort level is achieved.
 5.	We agree to provide a unified vision 
 
-***Confidentiality*** 
+**Confidentiality**
 ====================
 
  Confidential discussion topics include but are not limited to:
@@ -24,13 +24,13 @@ Devops Team (Group 7) Code of Conduct
  
 
 
-***Teamwork***
+**Teamwork**
 ==============
 
 1.	Management and staff members should work together and help each other out. (No person or department is an island!) 
 2.	We are all working together for the greater good of the co-op 
 
-***Communication***
+**Communication**
 ==================
 
 1.	We are all responsible for communication.  We have a responsibility to being positive senders as well as receptive, active listeners o 
@@ -38,7 +38,7 @@ Devops Team (Group 7) Code of Conduct
 3.	Direct communication is always best.   (Talking to a third party or behind another’s back is unacceptable.) 
 4.	We agree that topics or comments generally thought to be offensive are off limits.
 
-***Workplace ethics***
+**Workplace ethics**
 =====================
 
 1.	Talking at inappropriate time in classrooms, study spaces and libraries
@@ -46,7 +46,7 @@ Devops Team (Group 7) Code of Conduct
 3.	Bullying and harassment of any form including via social media, text messages, email etc.
 4.	Being present on campus whilst under the influence of alcohol or drugs.
 
-***Marking system***
+**Marking system**
 ===================
 
 Accept and provide appropriate professional review
@@ -62,21 +62,33 @@ If a team member has to take leave of absence for some reasons
 2.	Show plans for his tasks during his absence (Example, how will he manage to do his tasks during his absence)
 3.	Remote working is allowed
 
-***23/1/2024***
+**23/1/2024**
 
-***Team Members***
+**Team Members**
 =================
-Name = Htoo Myat Linn , Role = Product Owner , Sign = Linn
+- **Name:** Htoo Myat Linn
+  - **Role:** Product Owner
+  - **Sign:** Linn
 
-Name = Kyaw Ko Ko San , Role = Team memeber , Sign = Kyaw
+- **Name:** Kyaw Ko Ko San
+  - **Role:** Team Member
+  - **Sign:** Kyaw
 
-Name = Wai Yan Moe , Role = Scrum Master , Sign = Moe
+- **Name:** Wai Yan Moe
+  - **Role:** Scrum Master
+  - **Sign:** Moe
 
-Name = Pyae Sone , Role = Team member, Sign = Pyae
+- **Name:** Pyae Sone
+  - **Role:** Team Member
+  - **Sign:** Pyae
 
-Name = Bhone Myat , Role = Team member , Sign = Bhone
+- **Name:** Bhone Myat
+  - **Role:** Team Member
+  - **Sign:** Bhone
 
-Name = Zayar Phyo , Role = Team member , Sign = Zayar
+- **Name:** Zayar Phyo
+  - **Role:** Team Member
+  - **Sign:** Zayar
 
 
 
