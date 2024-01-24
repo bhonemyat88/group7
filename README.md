@@ -12,5 +12,6 @@
 
 **.** License [![LICENSE](https://img.shields.io/github/license/AdamCold/group7.svg?style=flat-square)](https://github.com/AdamCold/group7/blob/master/LICENSE)
 
-**.** Release [![Release](https://img.shields.io/github/release/AdamCold/group7/all.svg?style=flat-square)](https://github.com/AdamCold/group7/release)
+**.** Release [![Releases](https://img.shields.io/github/release/AdamCold/group7/all.svg?style=flat-square)](https://github.com/AdamCold/group7/releases)
+
 
