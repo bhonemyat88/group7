@@ -3,8 +3,7 @@ package com.napier.g7;
 /**
  * Represents an employee
  */
-public class Employee
-{
+public class Employee {
     /**
      * Employee number
      */
@@ -33,10 +32,11 @@ public class Employee
     /**
      * Employee's current department
      */
-    public String dept_name;
+    public Department dept;
 
     /**
      * Employee's manager
      */
+    public String dept_name;
     public String manager;
 }
